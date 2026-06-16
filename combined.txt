@@ -1,8 +1,8 @@
 --- Содержимое file1.txt ---
-Hello from file 1
+Hello
 
 --- Содержимое file2.txt ---
-This is file 2 content
+What are you doing here?
 
 --- Содержимое file3.txt ---
-Last file here
+Come on, goodbye
